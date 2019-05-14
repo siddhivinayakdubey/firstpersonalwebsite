@@ -111,7 +111,7 @@ h3{
   left: 200px;
 }
 .top-cloud{
-  position: absolute;
+  position: relative;
   right: 100px;
 }
 .span1{
