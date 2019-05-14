@@ -113,6 +113,7 @@ h3{
 .top-cloud{
   position: absolute;
   right: 50px;
+  top: 50px;
 }
 .span1{
   text-decoration: underline;
